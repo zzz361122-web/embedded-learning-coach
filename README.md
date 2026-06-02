@@ -1,4 +1,4 @@
-# Embedded Learning Coach
+# Embedded Learning Coach  直接下载embedded-learning-coach.zip
 
 **A WorkBuddy AI Skill for Embedded Systems Deep Learning**
 
