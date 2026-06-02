@@ -1,0 +1,72 @@
+{
+  "version": "2.0",
+  "created_at": null,
+  "updated_at": null,
+
+  "_comment": "此文件由 embedded-learning-coach 自动维护，请勿手动删除。记录了用户的学习画像与当前最优教学策略。",
+
+  "question_style": {
+    "tends_to_ask_why": 0,
+    "tends_to_ask_how": 0,
+    "tends_to_ask_what": 0,
+    "tends_to_give_short_answers": 0,
+    "tends_to_give_detailed_answers": 0,
+    "asks_for_examples": 0,
+    "asks_for_code": 0,
+    "asks_for_analogy": 0,
+    "skips_questions": 0,
+    "total_interactions": 0
+  },
+
+  "learning_style": {
+    "preferred_depth": "balanced",
+    "code_first": false,
+    "theory_first": false,
+    "analogy_helps": true,
+    "diagram_preference": false,
+    "pace": "normal",
+    "session_avg_kp": 1.5,
+    "prefers_chunked_learning": false,
+    "prefers_immersive_learning": false
+  },
+
+  "memory_pattern": {
+    "avg_retention_days": 7,
+    "review_frequency": "low",
+    "best_review_interval": 7,
+    "forgets_details_first": true,
+    "forgets_concepts_first": false,
+    "strong_topics": [],
+    "weak_topics": [],
+    "quiz_avg_score": 0.0,
+    "total_quizzes": 0
+  },
+
+  "cognitive_traits": {
+    "learning_type": "unknown",
+    "attention_span": "normal",
+    "error_tolerance": "normal",
+    "curiosity_index": 0.5,
+    "confidence_level": "unknown"
+  },
+
+  "teaching_strategy": {
+    "explanation_length": "medium",
+    "code_position": "after_theory",
+    "analogy_usage": "moderate",
+    "question_frequency": "normal",
+    "recursion_depth": 2,
+    "review_interval_days": 7,
+    "quiz_difficulty_start": "easy",
+    "encouragement_style": "balanced",
+    "pacing": "normal"
+  },
+
+  "strategy_evolution_log": [
+    {
+      "_comment": "每次策略调整都追加一条记录，用于/progress中展示'教学策略进化记录'"
+    }
+  ],
+
+  "behavior_history": []
+}
