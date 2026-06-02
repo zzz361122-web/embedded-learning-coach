@@ -1,5 +1,7 @@
 # Embedded Learning Coach  
-注：直接下载embedded-learning-coach.zip压缩包
+**注：直接下载embedded-learning-coach.zip压缩包**
+
+
 **A WorkBuddy AI Skill for Embedded Systems Deep Learning**
 
 <p align="center">
